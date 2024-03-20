@@ -6,12 +6,12 @@
 .navbar-brand-icon {
     margin-right: 0.5rem;
 }
-/* Add this CSS to your stylesheet */
+
 .navbar-dark {
-    background-color: #20B2AA !important; /* Change navbar color to light green */
+    background-color: #20B2AA !important; 
 }
 
 .navbar-brand::after {
-    content: '\1F3E0'; /* House icon */
+    content: '\1F3E0'; 
     margin-left: 5px;
 }
